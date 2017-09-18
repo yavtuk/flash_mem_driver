@@ -1,5 +1,5 @@
 /**
- * Author: Serge Maslyakov, rusoil.9@gmail.com
+ * Author: Moksyakov Alexey, yavtuk@ya.ru
  *
  * Flash memory driver implementation.
  *
