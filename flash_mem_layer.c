@@ -1,5 +1,6 @@
 /**
- * Author: Serge Maslyakov, rusoil.9@gmail.com
+ *  Author: Moksyakov Alexey
+ *  email:  yavtuk@ya.ru
  */
 
 
